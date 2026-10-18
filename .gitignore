@@ -1,0 +1,8 @@
+old_map
+*.o
+*.out
+build/
+cmake-build-*/
+.vscode/
+.idea/
+.DS_Store
